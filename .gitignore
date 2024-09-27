@@ -14,3 +14,6 @@ data/
 
 # Ignore .DS_STORE file
 .DS_STORE
+
+# Ignore pycache folder
+__pycache__/
