@@ -146,11 +146,11 @@ if not os.path.exists(output_dir):
 missing_response = []
 
 # Loop over each state and grab corresponding coordinate
-for state, coords in state_coordinates_min.items():
+for state, coord_list in state_coordinates_min.items():
     state_data = []
-    for coord in coords:
+    for coord in coord_list:
         lat, lon = coord
-        for date in filtered_dates: # Loops through 1980 - 2024 by every 15 days
+        for date in filtered_dates: # Loops through years 1980 - 2024 and every 15 days
 
             print(f"State: {state} Lat: {lat}, Lon: {lon} Date: {date}")
             try:
