@@ -10,7 +10,7 @@ keys.env
 
 # Ignore the data folder
 # This folder stores large datasets that can't be uploaded to github
-data/
+data/*
 
 # Track a specific file within the ignored folder
 !data/clean_weather_data.csv
