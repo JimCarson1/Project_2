@@ -10,17 +10,13 @@ keys.env
 
 # Ignore the data folder
 # This folder stores large datasets that can't be uploaded to github
-data/*
-
-# Track a specific file within the ignored folder
-!data/clean_weather_data.csv
+data/
 
 # Ignore .DS_STORE file
 .DS_STORE
 
-# Ignore pycache folders
+# Ignore pycache solders
 __pycache__/
 
 # Ignore state_data folder contains all state json data
 state_data/
-
