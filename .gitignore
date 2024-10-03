@@ -21,4 +21,4 @@ __pycache__/
 # Ignore state_data folder contains all state json data
 state_data/
 
-data_modeling_prep/data_per_crop/
+data_per_crop/wheat_df.gz
