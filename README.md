@@ -72,7 +72,7 @@ This project leverages machine learning to predict crop yields and flu outbreaks
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-prediction-project.git
+   git clone https://github.com/JimCarson1/Project_2.git
    ```
 2. Install the necessary dependencies:
    ```bash
