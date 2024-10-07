@@ -10,6 +10,11 @@ This project leverages machine learning to predict crop yields and flu outbreaks
 - Explore the relationship between weather data and flu outbreaks.
 - Identify gaps in data and future opportunities for improving prediction models.
 
+## Presentation
+
+For a more visual overview of the project, you can view the full presentation here:
+[Project Presentation](https://docs.google.com/presentation/d/13wvr7N_o4edtvKolaLUzSwJBnX1uzUopYICoYWqXYNo/edit#slide=id.g308a25c9d1f_0_63)
+
 ## Data Sources
 
 1. **Crop Data**:
