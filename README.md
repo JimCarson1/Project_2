@@ -70,17 +70,20 @@ This project leverages machine learning to predict crop yields and flu outbreaks
 
 ## Installation
 
-1. Clone the repository:
+1. Ensure you have Python **3.11.5** installed.
+
+   - You can download it from [python.org](https://www.python.org/downloads/release/python-3115/).
+
+2. Clone the repository:
+
    ```bash
    git clone https://github.com/JimCarson1/Project_2.git
+
    ```
-2. Install the necessary dependencies:
+
+3. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
-3. Run the model training scripts:
-   ```bash
-   python train_model.py
    ```
 
 ## Technologies Used
