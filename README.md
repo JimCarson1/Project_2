@@ -104,4 +104,4 @@ For a more visual overview of the project, you can view the full presentation he
 - **Mason Galusha**: Project Lead, Data Collection, Model Training
 - **Marquez Ward**: Data Cleaning, Feature Engineering
 - **Jim Carson**: API Integration, Weather Data Management
-- **Graham Adams**: Flu Data Analysis, Model Optimization
+- **Graham Adams**: Flu Data Analysis, Model Optimimization
